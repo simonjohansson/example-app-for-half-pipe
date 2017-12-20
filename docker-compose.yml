@@ -1,0 +1,7 @@
+
+code:
+  build: .
+  command: python setup.py pytest
+  working_dir: /home/dev/code 
+  volumes:
+    - .:/home/dev/code
