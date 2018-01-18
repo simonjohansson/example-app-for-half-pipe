@@ -1,5 +1,0 @@
-applications:
-- name: test-app
-  routes:
-  - route: test-route-1.apps.gcp.springernature.io
-  - route: test-route-2.apps.gcp.springernature.io
