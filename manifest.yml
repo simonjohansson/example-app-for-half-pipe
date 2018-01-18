@@ -1,1 +1,2 @@
-name: test-app
+applications:
+- name: test-app
